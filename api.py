@@ -85,4 +85,4 @@ class Records(Resource):
                                              }}, 500
 
 api.add_resource(Records, '/')
-app.run(port=5000, debug=True)
+#app.run(port=5000, debug=True)
